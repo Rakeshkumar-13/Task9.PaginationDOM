@@ -1,0 +1,37 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination-button {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pagination-button:hover { 
+  background-color: #cececed5;
+}
+
+.test-suite {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.test-suite button {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.test-suite button:hover {
+  background-color: #0056b3;
+}
